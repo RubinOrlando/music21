@@ -5,3 +5,4 @@ matplotlib
 more_itertools
 numpy
 webcolors>=1.5
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
